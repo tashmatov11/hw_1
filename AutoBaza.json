@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "bus": "Renault",
+    "driver": " ",
+    "status": "Base"
+  },
+    {
+    "id": 2,
+    "bus": "Volvo",
+    "driver": " ",
+    "status": "Base"
+  },
+  {
+    "id": 3,
+    "bus": "DAF XT",
+    "driver": " ",
+    "status": "Base"
+  }
+
+]
